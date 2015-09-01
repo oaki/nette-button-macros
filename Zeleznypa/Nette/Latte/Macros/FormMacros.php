@@ -1,6 +1,6 @@
 <?php
 
-namespace Oaki\Nette\Latte\Macros;
+namespace Oaki\Latte\Macros;
 
 use Latte\Compiler;
 use Latte\MacroNode;
