@@ -1,7 +1,7 @@
 {
     "name": "oaki/nette-button-macros",
 	"description": "Add support of pair latte macro \"button\" for render form control SubmitButton as <button>. It can be useful for Twitter bootstrap design.",
-	"version": "0.5.0",
+	"version": "1.5.0",
 	"type": "library",	
 	"keywords": ["nette","latte"],
 	"license": "WTFPL",
