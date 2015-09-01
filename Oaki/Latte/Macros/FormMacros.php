@@ -22,7 +22,6 @@ class FormMacros extends MacroSet
      */
     public static function install(Compiler $compiler)
     {
-        parent::install($compiler);
         $me = new static($compiler);
         $me->addMacro('button', array($me, 'macroButton'), array($me, 'macroButtonEnd'));
         $me->addMacro('caption', array($me, 'macroCaption'));
